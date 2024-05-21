@@ -15,9 +15,9 @@ status-website: # Status website (optional)
     - title: Status
       href: /
     - title: phpBBModders.com
-      href: https://phpmodders.com
+      href: https://phpbbmodders.com
     - title: phpBBModders.net
-      href: https://phpmodders.net
+      href: https://phpbbmodders.net
 user-agent: phpBBModders UPTIME
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
