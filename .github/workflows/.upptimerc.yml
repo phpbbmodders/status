@@ -1,0 +1,12 @@
+owner: bonelifer # GitHub username
+repo: status # GitHub repository name
+sites: # List of endpoints to track
+  - name: phpBBModders.com
+    url: https://www.phpbbmodders.com
+  - name: phpBBModders.net
+    url: https://www.phpbbmodders.net
+assignees: # Users to assign downtime issues (optional)
+  - bonelifer
+status-website: # Status website (optional)
+  cname: status.phpbbmodders.net # Custom domain CNAME
+  name: phpBB Modders Status Page # Status website title
