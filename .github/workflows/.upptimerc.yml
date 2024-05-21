@@ -10,3 +10,4 @@ assignees: # Users to assign downtime issues (optional)
 status-website: # Status website (optional)
   cname: status.phpbbmodders.net # Custom domain CNAME
   name: phpBB Modders Status Page # Status website title
+user-agent: phpBBModders UPTIME
