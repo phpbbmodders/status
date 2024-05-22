@@ -1,4 +1,4 @@
-owner: bonelifer # GitHub username
+owner: phpbbmodders # GitHub username
 repo: status # GitHub repository name
 sites: # List of endpoints to track
   - name: phpBBModders.com
