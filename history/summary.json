@@ -4,18 +4,20 @@
     "url": "https://www.phpbbmodders.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbbmodders.com.ico",
     "slug": "php-bb-modders-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 773,
-    "timeWeek": 550,
-    "timeMonth": 550,
-    "timeYear": 550,
-    "dailyMinutesDown": {}
+    "time": 518,
+    "timeDay": 233,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
+    "dailyMinutesDown": {
+      "2024-05-26": 0
+    }
   },
   {
     "name": "phpBBModders.net",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 48,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "time": 87,
+    "timeDay": 127,
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   }
 ]
